@@ -31,7 +31,6 @@ main {
     justify-content: space-between;
     padding: 6%;
     box-sizing: border-box;
-    
 }
 
 #textarea-main {
@@ -70,8 +69,6 @@ main {
 .btn {
     display: flex;
     gap: 24px;
-    
-    
 }
 
 .btn #btn-cript {
