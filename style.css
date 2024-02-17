@@ -1,0 +1,161 @@
+:root {
+    --font-main:  "Inter", sans-serif;
+
+    --color-first: #FDF1D6;
+    --color-second: #C39E5C;
+    --color-third: #DA723C;
+    --color-fourth: #91091E;
+}
+
+main {
+    font-family: var(--font-main);
+    background-color: var(--color-first);
+}
+
+#icon-alura {
+    padding: 1%;
+}
+
+.main-aside {
+   
+    display: flex;
+    justify-content: space-between;
+    height: 80vh;
+    padding: 40px;
+}
+
+.main-textarea-alert-btn {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 6%;
+    box-sizing: border-box;
+    
+}
+
+#textarea-main {
+    font-family: var(--font-main);
+    font-size: 2rem;
+    color: var(--color-fourth);
+    background-color: var(--color-first);
+    line-height: 2rem;
+    border: none;
+    outline: none;
+    resize: none;
+    overflow-y:hidden;
+    scroll-behavior: smooth;
+}
+
+::placeholder {
+    color: var(--color-fourth);
+    font-size: 2rem;
+}
+
+.alert {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.alert #exclamation {
+    height: 0.9rem;
+    width: 0.9rem;
+}
+
+.alert p {
+    font-size: 0.75rem;
+}
+
+.btn {
+    display: flex;
+    gap: 24px;
+    
+    
+}
+
+.btn #btn-cript {
+    font-family: var(--font-main);
+    background-color: var(--color-fourth);
+    width: 328px;
+    padding: 24px;
+    color: var(--color-third);
+    border: 1.5px solid;
+    border-radius: 24px;
+    border-color: var(--color-third);
+}
+
+.btn #btn-decript {
+    font-family: var(--font-main);
+    background-color: var(--color-third);
+    width: 328px;
+    padding: 24px;
+    color: var(--color-fourth);
+    border-radius: 24px;
+    border: 1.5px solid;
+    border-color: var(--color-fourth);
+}
+
+.aside {
+    border: 1px solid var(--color-fourth);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 32px;
+    width: 420px;
+    background-color: var(--color-second);
+    border-radius: 32px;
+    color: var(--color-first);
+}
+
+.aside #aside-img {
+    width: 80%;
+}
+
+#aside-text {
+    text-align: center;
+}
+
+#aside-text h3 {
+    font-size: 1.5rem;
+}
+
+#aside-text p {
+    font-size: 1rem;
+}
+
+#result {
+    height: 100%;
+    padding: 5%;
+}
+
+#result-span {
+    font-size: 1rem;
+    color: var(--color-fourth);
+    word-break:break-all;
+    text-align: center;
+    text-justify: inter-word;
+}
+
+#btn-copy {
+    font-family: var(--font-main);
+    background-color: var(--color-third);
+    width: 328px;
+    padding: 24px;
+    color: var(--color-fourth);
+    border-radius: 24px;
+    border: 1.5px solid;
+    border-color: var(--color-fourth);
+}
+
+.hidden {
+    display: none;
+}
+
+.flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
