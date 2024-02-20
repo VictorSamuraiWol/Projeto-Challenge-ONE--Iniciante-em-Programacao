@@ -34,7 +34,7 @@ btnCript.addEventListener('click', () => {
     result.classList = 'flex';
     let str = textarea.value;
     let newStr = '';
-    var regExp = /^[a-z\s/\W|_/]+$/;
+    var regExp = /^[a-z\s/]+$/;
  
     if ((regExp.test(str)) && (str.includes('a') || str.includes('e') || str.includes('i') || str.includes('o') || str.includes('u') || (regExp.test(str)) )) {
         newStr = str.replaceAll('e', 'enter').replaceAll('i', 'imes').replaceAll('a', 'ai').replaceAll('o', 'ober').replaceAll('u', 'ufat');
@@ -60,7 +60,7 @@ btnDecript.addEventListener('click', () => {
     result.classList = 'flex';
     let str = textarea.value;
     let newStr = '';
-    var regExp = /^[a-z\s/\W|_/]+$/;
+    var regExp = /^[a-z\s/]+$/;
  
     if ((regExp.test(str)) && (str.includes('ai') || str.includes('enter') || str.includes('imes') || str.includes('ober') || str.includes('ufat') || (regExp.test(str)) )) {
         newStr = str.replaceAll('enter', 'e').replaceAll('imes', 'i').replaceAll('ai', 'a').replaceAll('ober', 'o').replaceAll('ufat', 'u');
