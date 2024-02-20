@@ -41,8 +41,9 @@ main {
     border: none;
     outline: none;
     resize: none;
-    overflow-y:hidden;
+    overflow: auto;
     scroll-behavior: smooth;
+    scrollbar-color: var(--color-first) var(--color-second);
 }
 
 ::placeholder {
@@ -103,6 +104,7 @@ main {
     background-color: var(--color-second);
     border-radius: 32px;
     color: var(--color-first);
+ 
 }
 
 .aside #aside-img {
@@ -132,6 +134,9 @@ main {
     word-break:break-all;
     text-align: center;
     text-justify: inter-word;
+    overflow: auto;
+    scroll-behavior: smooth;
+    scrollbar-color: var(--color-first) var(--color-second);
 }
 
 #btn-copy {
