@@ -22,5 +22,8 @@ Descubra qual é a nossa mensagem secreta!
 
 "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
 
+Confira o deploy deste projeto no Github Pages pelo link: 
+https://victorsamuraiwol.github.io/Projeto-Challenge-ONE--Iniciante-em-Programacao/
+
 Confira o deploy deste projeto no vercel pelo link: 
 https://projeto-challenge-one-iniciante-em-programacao.vercel.app/
