@@ -2,7 +2,7 @@
 
 Descrição:
 
-Bem vindos! Este é um projeto de encriptação e decriptação de palavras e textos utilizando HTML, CSS e Javascript, você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada. 
+Bem vindos! Este é um projeto de encriptação e decriptação de palavras e textos utilizando HTML, CSS e Javascript. Você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada. 
 O projeto está responsivo para dispositivos como: tablets(768px) e celulares(375px).
 
 As "chaves" de criptografia utilizadas são:
