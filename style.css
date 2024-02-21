@@ -104,7 +104,7 @@ main {
     background-color: var(--color-second);
     border-radius: 32px;
     color: var(--color-first);
- 
+    box-sizing: border-box;
 }
 
 .aside #aside-img {
