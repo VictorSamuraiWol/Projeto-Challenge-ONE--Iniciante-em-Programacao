@@ -67,7 +67,7 @@
 }
 
 /*---Celular----*/
-@media (max-width: 375px) {
+@media (max-width: 440px) {
     .main-textarea-alert-btn {
         height: 80%;
         width: 100%;
