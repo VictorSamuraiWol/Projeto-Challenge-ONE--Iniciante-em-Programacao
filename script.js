@@ -28,7 +28,8 @@ function defaultZero() {
     textarea.value = '';
 }
 
-btnCript.addEventListener('click', () => {
+//Opção 1 para encriptação:
+function criptText() {
     asideImg.classList = 'hidden';
     asideText.classList = 'hidden';
     result.classList = 'flex';
@@ -50,11 +51,37 @@ btnCript.addEventListener('click', () => {
         console.log((regExp.test(str)));
 
     defaultZero();
-    
-});
-    
+};
 
-btnDecript.addEventListener('click', () => {
+btnCript.addEventListener('click', criptText);
+
+//Opção 2 para encriptação:
+// btnCript.addEventListener('click', () => {
+//     asideImg.classList = 'hidden';
+//     asideText.classList = 'hidden';
+//     result.classList = 'flex';
+//     let str = textarea.value;
+//     let newStr = '';
+//     var regExp = /^[a-z\s/]+$/;
+ 
+//     if ((regExp.test(str)) && (str.includes('a') || str.includes('e') || str.includes('i') || str.includes('o') || str.includes('u') || (regExp.test(str)) )) {
+//         newStr = str.replaceAll('e', 'enter').replaceAll('i', 'imes').replaceAll('a', 'ai').replaceAll('o', 'ober').replaceAll('u', 'ufat');
+
+//         console.log((regExp.test(str)));
+//     } else {
+//         newStr = 'Por favor, digite somente letras minúsculas e sem acento.';
+//     };
+
+//         resultSpan.innerText = newStr;
+//         console.log(str);
+//         console.log(newStr);
+//         console.log((regExp.test(str)));
+
+//     defaultZero();
+// });
+
+//Opção 1 para decriptação:
+function decriptText() {
     asideImg.classList = 'hidden';
     asideText.classList = 'hidden';
     result.classList = 'flex';
@@ -75,7 +102,33 @@ btnDecript.addEventListener('click', () => {
         console.log(newStr);
     
     defaultZero();
-});
+};
+
+btnDecript.addEventListener('click', decriptText);
+
+//Opção 2 para decriptação:
+// btnDecript.addEventListener('click', () => {
+//     asideImg.classList = 'hidden';
+//     asideText.classList = 'hidden';
+//     result.classList = 'flex';
+//     let str = textarea.value;
+//     let newStr = '';
+//     var regExp = /^[a-z\s/]+$/;
+ 
+//     if ((regExp.test(str)) && (str.includes('ai') || str.includes('enter') || str.includes('imes') || str.includes('ober') || str.includes('ufat') || (regExp.test(str)) )) {
+//         newStr = str.replaceAll('enter', 'e').replaceAll('imes', 'i').replaceAll('ai', 'a').replaceAll('ober', 'o').replaceAll('ufat', 'u');
+
+//         console.log((regExp.test(str)));
+//     } else {
+//         newStr = 'Por favor, digite somente letras minúsculas e sem acento.';
+//     };
+
+//         resultSpan.innerText = newStr;
+//         console.log(str);
+//         console.log(newStr);
+    
+//     defaultZero();
+// });
 
 //----evento para reiniciar o aside----
 textarea.addEventListener('click', () => {
