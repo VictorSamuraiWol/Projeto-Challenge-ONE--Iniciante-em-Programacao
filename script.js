@@ -77,6 +77,13 @@ btnDecript.addEventListener('click', () => {
     defaultZero();
 });
 
+//----evento para reiniciar o aside----
+textarea.addEventListener('click', () => {
+    asideImg.classList = '';
+    asideText.classList = '';
+    result.classList = 'hidden';
+});
+
 //----função do botão copiar----
 async function copyText() {
     let campoTexto = resultSpan.innerText;
