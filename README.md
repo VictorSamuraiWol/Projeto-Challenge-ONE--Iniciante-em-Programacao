@@ -1,4 +1,4 @@
-﻿# Projeto-Challenge-ONE(Oracle Next Education)--Iniciante-em-Programacao--Alura/Oracle
+﻿# Projeto-Challenge-ONE(Oracle Next Education)--Iniciante-em-Programação--Alura/Oracle
 
 Descrição:
 
