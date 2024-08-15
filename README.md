@@ -2,6 +2,7 @@
 <img 
     src="src/assets/img-challenge-encriptacao.png"
     width="800"
+    style="border: 1px solid red; border-radius:5px"
 />
 </p>
 
