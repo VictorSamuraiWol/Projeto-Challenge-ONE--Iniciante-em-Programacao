@@ -9,6 +9,7 @@
 
  > ℹ️ **NOTE:** Este é um repositório desenvolvido durante os meus estudos da formação Front End T6 - Especialização do programa [ONE](https://www.oracle.com/br/education/oracle-next-education/) e na plataforma da [ALURA](https://www.alura.com.br/)
 
+## ✨ Features
 ✅ Bem vindos! Este é um projeto de encriptação e decriptação de palavras e textos utilizando HTML, CSS e Javascript. Você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada. 
 O projeto está responsivo para dispositivos tablets e celulares.
 Minha gratidão a Deus, Oracle e Alura pela oportunidade.
@@ -27,6 +28,25 @@ gaitober" => "gato"
 Desafio:
 
 Descubra qual é a nossa mensagem secreta!
+
+"pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
+
+✅ Welcome! This project focuses on the encryption and decryption of words and texts using HTML, CSS and JavaScript. You can exchange secret messages with others who know the encryption key used. The project is responsive for tablets and mobile devices. My gratitude goes to God, Oracle and Alura for the opportunity. 
+
+The encryption "keys" used are:
+The letter "e" is converted to "enter."
+The letter "i" is converted to "imes."
+The letter "a" is converted to "ai."
+The letter "o" is converted to "ober."
+The letter "u" is converted to "ufat."
+
+For example:
+"gato" => "gaitober"
+gaitober" => "gato" 
+
+Challenge: 
+
+Discover what our secret message is!
 
 "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
 
