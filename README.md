@@ -7,7 +7,7 @@
 
 # Projeto Challenge Encriptação e Decriptação
 
- > ℹ️ **NOTE:** Este é um repositório desenvolvido durante os meus estudos da formação iniciante em programação do programa [ONE](https://www.oracle.com/br/education/oracle-next-education/) e na plataforma da [ALURA](https://www.alura.com.br/)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante os meus estudos da formação Front End T6 - Especialização do programa [ONE](https://www.oracle.com/br/education/oracle-next-education/) e na plataforma da [ALURA](https://www.alura.com.br/)
 
 ✅ Bem vindos! Este é um projeto de encriptação e decriptação de palavras e textos utilizando HTML, CSS e Javascript. Você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada. 
 O projeto está responsivo para dispositivos tablets e celulares.
@@ -40,13 +40,13 @@ Descubra qual é a nossa mensagem secreta!
 - [Vercel](https://vercel.com/)
 
 ## ✔ Repositório no Github
-https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--Iniciante-em-Programacao
+🔗 https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--Iniciante-em-Programacao
 
 ## ✔ Deploy no Github Pages
-https://victorsamuraiwol.github.io/Projeto-Challenge-ONE--Iniciante-em-Programacao/
+🔗 https://victorsamuraiwol.github.io/Projeto-Challenge-ONE--Iniciante-em-Programacao/
 
 ## ✔ Deploy no Vercel
-https://projeto-challenge-one-iniciante-em-programacao.vercel.app/
+🔗 https://projeto-challenge-one-iniciante-em-programacao.vercel.app/
 
 ## 👨‍💻 Estudante Front End e AWS Cloud Computing
 
