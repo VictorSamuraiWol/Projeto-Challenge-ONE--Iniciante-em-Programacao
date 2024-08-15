@@ -52,10 +52,12 @@ Discover what our secret message is!
 
 ## 💻 Tecnologias utilizadas no projeto
 
+- [Trello](https://trello.com/) 
+- [Figma](https://www.figma.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 - [HTML](https://html.com/) 
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://www.javascript.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
 - [Github](https://github.com/)
 - [Vercel](https://vercel.com/)
 
