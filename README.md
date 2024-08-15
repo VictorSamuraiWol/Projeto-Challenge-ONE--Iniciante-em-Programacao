@@ -1,7 +1,7 @@
 ﻿<p align="center">
 <img 
     src="src/assets/img-challenge-encriptacao.png"
-    width="500"
+    width="800"
 />
 </p>
 
