@@ -50,6 +50,10 @@ Discover what our secret message is!
 
 "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
 
+<a href="https://projeto-challenge-one-iniciante-em-programacao.vercel.app/"> 📟 Clique aqui para visualizar a aplicação pelo Vercel</a><br/>
+<a href="https://victorsamuraiwol.github.io/Projeto-Challenge-ONE--Iniciante-em-Programacao/"> 📟 Clique aqui para visualizar a aplicação pelo Github Pages</a><br/>
+<a href="https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--Iniciante-em-Programacao" title="View Repository now"> 📜 Clique aqui para visualizar o reposiório</a>
+
 ## 💻 Tecnologias utilizadas no projeto
 
 - [Trello](https://trello.com/) 
@@ -60,15 +64,6 @@ Discover what our secret message is!
 - [JavaScript](https://www.javascript.com/)
 - [Github](https://github.com/)
 - [Vercel](https://vercel.com/)
-
-## ✔ Repositório no Github
-🔗 https://github.com/VictorSamuraiWol/Projeto-Challenge-ONE--Iniciante-em-Programacao
-
-## ✔ Deploy no Github Pages
-🔗 https://victorsamuraiwol.github.io/Projeto-Challenge-ONE--Iniciante-em-Programacao/
-
-## ✔ Deploy no Vercel
-🔗 https://projeto-challenge-one-iniciante-em-programacao.vercel.app/
 
 ## 👨‍💻 Estudante Front End e AWS Cloud Computing
 
